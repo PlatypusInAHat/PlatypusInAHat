@@ -56,8 +56,6 @@ Young guy in his 20s wandering about his life, somehow get interested in ML and 
 
 ---
 
----
-
 ### 🗄 Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
